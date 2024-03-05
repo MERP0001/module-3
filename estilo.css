@@ -1,0 +1,23 @@
+/*.container {*/
+/*  display: flex;*/
+/*  justify-content: center;*/
+/*  align-items: center;*/
+/*  height: 100vh;*/
+/*}*/
+.box {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin: 10px;
+}
+
+/* Estilos para los títulos específicos */
+#titulo1 {
+  background-color: #FF5733; /* Color único para Chicken */
+}
+#titulo2 {
+  background-color: #FFC300; /* Color único para Beef */
+}
+#titulo3 {
+  background-color: #C70039; /* Color único para Sushi */
+}
